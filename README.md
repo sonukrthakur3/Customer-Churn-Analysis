@@ -35,7 +35,10 @@ Customer-Churn-Analysis/
 └── Report/
     └── Executive_Business_Report.pdf
 
-## 📈 Dashboard Preview
+
+
+
+##📈 Dashboard Preview
 
 ### Page 1 — Customer Churn Overview
 Provides a high-level overview of the overall churn rate, average tenure, and segment-wise churn analysis based on contract types and payment methods.
